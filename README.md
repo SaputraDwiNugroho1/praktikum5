@@ -1,11 +1,11 @@
 ## Praktikum5
 Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut:
 
--Program meminta memasukan data sebanyak-banyaknya (gunakan perulangan)
--Tampilkan pertanyaan untuk menambah data (ya/tidak?), apabila jawaban "tidak", maka program akan menampilkan daftar datanya.
--Nilai akhir diambil dari perhitungan 3 komponen nilai (Tugas: 30%, UTS: 35%, UAS: 35%)
--Buat flowchart dan penjelasan programnya pada README.md.
--Commit dan push repository ke github.
+1. Program meminta memasukan data sebanyak-banyaknya (gunakan perulangan)
+2. Tampilkan pertanyaan untuk menambah data (ya/tidak?), apabila jawaban "tidak", maka program akan menampilkan daftar datanya.
+3. Nilai akhir diambil dari perhitungan 3 komponen nilai (Tugas: 30%, UTS: 35%, UAS: 35%)
+4. Buat flowchart dan penjelasan programnya pada README.md.
+5. Commit dan push repository ke github.
 
 ## Langkah - Langkah sebagai berikut:
 1. Buat programnya terlebih dahulu dengan source code
